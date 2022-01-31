@@ -1,0 +1,4 @@
+git branch -m kk4.4 <BRANCH>
+git fetch origin
+git branch -u origin/<BRANCH> <BRANCH>
+git remote set-head origin -a
